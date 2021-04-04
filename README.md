@@ -7,5 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## How To Install
+## To use it follow this steps
+<ul>
+    <li>run $composer install</li>
+    <li>copy all content from .env.exmaple to a new file with name .env</li>
+    <li> run $php artisan key:generate</li>
+    <li> run npm install</li>
+    <li>run $npm run dev to compile tailwind</li>
+</ul>
 
